@@ -1,0 +1,22 @@
+#content {
+  display: flex;
+  flex-direction: row;
+  #map {
+    width: 600px;
+    height: 400px;
+  }
+  #form-layer {
+    width: 200px;
+    padding: 10px;
+    #form {
+      * {
+        margin-bottom: 5px;
+      }
+      display: none;
+      flex-direction: column;
+      textarea {
+        resize: none;
+      }
+    }
+  }
+}
