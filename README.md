@@ -1,9 +1,8 @@
 # js-responsive-map
 
-## Prerequisities
+## Prerequisites
 1. Node.js
-2. Node Package Manager
-
+2. 
 ## Installation
 1. Clone this repository
 2. Run ```npm install```
